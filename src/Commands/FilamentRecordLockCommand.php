@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace AthulSuresh\FilamentRecordLock\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentRecordLockCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-record-lock';
 
     public $description = 'My command';
 
